@@ -1,6 +1,6 @@
 ## Testing task # 1 to Junior Mindbox Data Engineer
 
-### All solution contains at `set_sessions` method in `main.py` that create column session with unique ids
+### All solution contains at `set_sessions` method in `main.py` that creates column session with unique ids
 
 ### File `main.py` has `df` variable with fake data that can be replaced with real data or readed from csv
 
